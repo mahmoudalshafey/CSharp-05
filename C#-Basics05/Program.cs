@@ -5,7 +5,8 @@
         static void Main(string[] args)
         {
             #region Ques 1
-
+            //Console.WriteLine(Book.password);
+            //cannot print because password is private.
             #endregion
 
             #region Ques 2
