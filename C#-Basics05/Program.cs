@@ -21,7 +21,7 @@
             #endregion
 
             #region Ques 4
-
+            //Console.WriteLine(book.genre);
             #endregion
 
             #region Ques 5 

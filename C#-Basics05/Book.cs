@@ -12,5 +12,8 @@ namespace C__Basics05
 
         //public string title;   ---> Ques 3
 
+        // public Genre genre = Genre.Science; ---> Ques 4
+
+
     }
 }
