@@ -43,11 +43,21 @@
 
             #region Ques 7
 
+            //Genre genre = Genre.Fiction;
+            //string s = genre.ToString();
+            //Console.WriteLine(s);
+
             #endregion
 
             #region Ques 8 
 
             #endregion
+
+            #region Ques 9
+
+            #endregion
+
+
 
         }
     }
