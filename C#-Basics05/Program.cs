@@ -25,7 +25,14 @@
             #endregion
 
             #region Ques 5 
+            //int x = (int)Genre.Fiction;
+            //Console.WriteLine(x);
 
+            //int y = (int)Genre.NonFiction;
+            //Console.WriteLine(y);
+
+            //int z = (int)Genre.Science;
+            //Console.WriteLine(z);
             #endregion
 
             #region Ques 6
