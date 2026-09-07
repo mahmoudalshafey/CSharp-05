@@ -10,5 +10,7 @@ namespace C__Basics05
 
         //internal int copiesInStock = 5;  ---> Ques 2
 
+        //public string title;   ---> Ques 3
+
     }
 }
