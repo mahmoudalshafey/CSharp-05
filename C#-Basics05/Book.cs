@@ -8,5 +8,7 @@ namespace C__Basics05
     {
         //private string password = "secret"; ---> Ques 1
 
+        //internal int copiesInStock = 5;  ---> Ques 2
+
     }
 }

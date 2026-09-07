@@ -4,13 +4,15 @@
     {
         static void Main(string[] args)
         {
+            Book book = new Book();
             #region Ques 1
             //Console.WriteLine(Book.password);
             //cannot print because password is private.
             #endregion
 
             #region Ques 2
-
+            //Console.WriteLine(book.copiesInStock);
+            // yes , its compile because its internal access modifier.
             #endregion
 
             #region Ques 3
