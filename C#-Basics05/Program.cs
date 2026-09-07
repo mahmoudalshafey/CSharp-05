@@ -36,7 +36,9 @@
             #endregion
 
             #region Ques 6
-
+            //int genereValue = 1;
+            //Genre genre = (Genre)genereValue;
+            //Console.WriteLine(genre);
             #endregion
 
             #region Ques 7
